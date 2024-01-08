@@ -1,5 +1,11 @@
 # 2023-Legislative-Assembly-Election
 
+* Title :- 2023 Legislative-Assembly-Election
+
+* Created by :- Naveen Kumar Adapala
+
+* Tool used:- Ms Excel,Power Query & Ms Power BI
+
  **Power BI Dashboard**
 
 1. Mizoram
