@@ -20,7 +20,9 @@ Power BI dashboard analyzing the Legislative Assembly Election results! 🇮🇳
 Key Insights :
 
 📈 Constituency-wise breakdown of results.
+
 🗳️ Voter turnout trends.
+
 🎉 Noteworthy victories and close contests
 
 I've worked on visualizing the data to provide a clear and interactive overview of the election landscape. Check out the dashboard for a deeper dive into the numbers and trends.
